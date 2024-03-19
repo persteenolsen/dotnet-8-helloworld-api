@@ -8,7 +8,7 @@ dotnet new globaljson --sdk-version 8.0.203 --force
 
 # Functionality of the Web App
 
-- Just a simple Hello World Web API
+- Just a Hello World Web API
 
 # Tech used for creating the Web App
 
